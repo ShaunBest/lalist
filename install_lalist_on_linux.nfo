@@ -1,0 +1,1 @@
+Edit your .zshrc or similar and add line:  alias lalist='python ~/lalist.py $@'
