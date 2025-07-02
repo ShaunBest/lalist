@@ -8,7 +8,7 @@ At this point you have a list of all plasma group packages and you want to use t
 the plasma packages you want to install and you spent some hours doing this right.  well now you have your list could
 be named 'selection' and the list from earlier 'plasmagrp'.
 You could run the command % 'python lalist.py selection plasmagrp' and see output file 'leftover2' the file generated
-by lalist to get a list only of the packages you haven't enlisted as you selection from 'plasmagrp'.  You did this
+by lalist to get a list only of the packages you haven't enlisted as your selection from 'plasmagrp'.  You did this
 because you want to keep reading about every package in the plasma group and have a tool to automatically shorten
 your 'todo' list with your 'done' list or etc.  I think Arch Linux users could find this a very helpful tool which
 saves them lots of otherwise batch file scripting awk and sed commands usage.
